@@ -8,4 +8,4 @@ This is a java desktop application that serves as a diary. This was my homework 
 4. change the value in `src/diary_crud/DatabaseCon.java`
 
 ## Snippets
-[1](/snippets/login.PNG)
+![1](/snippets/login.PNG) ![2](/snippets/2.PNG) ![3](/snippets/3.PNG)
